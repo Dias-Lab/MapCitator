@@ -68,7 +68,7 @@ After running MapCitator, you will get a `citations.csv` and a `custom_label_map
 
 ![Screenshot of interactive citation map](examples/citations_map_screenshot.png)
 
-You can also view a live example of the interactive map by opening [`examples/Dias_custom_label_map.html`](examples/custom_label_map.html) in your browser.
+You can also view a live example of the interactive map by opening [`examples/Dias_custom_label_map.html`](examples/Dias_custom_label_map.html) in your browser.
 
 
 
