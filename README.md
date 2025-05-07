@@ -23,7 +23,7 @@ MapCitator is a Python tool that visualizes the global reach of your research by
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/yourusername/mapcitator.git
+    git clone git@github.com:Dias-Lab/MapCitator.git
     cd mapcitator
     ```
 
