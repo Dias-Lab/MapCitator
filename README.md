@@ -69,3 +69,37 @@ After running MapCitator, you will get a `citations.csv` and a `custom_label_map
 ![Screenshot of interactive citation map](examples/citations_map_screenshot.png)
 
 You can also view a live example of the interactive map by opening [`examples/custom_label_map.html`](examples/custom_label_map.html) in your browser.
+
+
+
+## Troubleshooting
+
+- **citation_map module not found:**  
+  Ensure the `citation_map` module is installed or available in your project directory.
+- **No citations found:**  
+  Double-check your Scholar ID and that your profile is public.
+
+
+## License
+
+MIT License
+
+
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+
+**Map your impact. Discover your reach. – MapCitator**
+
+## Citation
+
+If you use MapCitator in your research or projects, please consider citing this repository to give proper credit:
+
+@misc{mapcitator2025,
+author = {Raquel Dias},
+title = {MapCitator: A Tool for Mapping Scholarly Citations},
+year = {2025},
+howpublished = {\url{https://github.com/yourusername/mapcitator}},
+note = {Accessed: YYYY-MM-DD}
+}
